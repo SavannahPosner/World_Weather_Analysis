@@ -1,5 +1,10 @@
 #Adding config.py file
 config.py
+/Vacation_Itinerary/config.py
+/Weather_Database/config.py
+/Vacation_Search/config.py
+
+
 #adding additional files 
 API_practive.ipynb
 random_numbers.ipynb
